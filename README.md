@@ -21,6 +21,8 @@ I'm Shrey, currently pursuing my bachelor's degree in Software Engineering at th
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<br/>
+
 <a href="https://github.com/shreytailor">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreytailor&hide_rank=true&count_private=true" />
 </a>
