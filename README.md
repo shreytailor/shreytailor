@@ -23,9 +23,11 @@ I'm Shrey, currently pursuing my bachelor's degree in Software Engineering at th
 
 <br/>
 
-<a href="https://github.com/shreytailor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreytailor&hide_rank=true&count_private=true" />
-</a>
+<p align="center">
+  <a href="https://github.com/shreytailor">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreytailor&hide_rank=true&count_private=true" />
+  </a>  
+</p>
 
 <!--
 **shreytailor/shreytailor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
