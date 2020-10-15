@@ -27,11 +27,9 @@ Feel free to connect with me for collaboration! 🙂
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/shreytailor">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreytailor&hide_rank=true&count_private=true" />
-  </a>  
-</p>
+<a href="https://github.com/shreytailor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreytailor&hide_rank=true&count_private=true" />
+</a>  
 
 <!--
 **shreytailor/shreytailor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
