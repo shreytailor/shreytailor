@@ -1,6 +1,6 @@
 #### Hello there! 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreytailor&theme=tokyonight&hide_rank=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreytailor&show_icons=true&theme=midnight-purple&hide_rank=true&count_private=true)
 
 <!--
 **shreytailor/shreytailor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
